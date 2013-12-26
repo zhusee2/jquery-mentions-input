@@ -4,10 +4,8 @@ jquery.mentionsInput is a small, but awesome UI component that allows you to "@m
 
 This project is written by [Kenneth Auchenberg](http://kenneth.io), and started as an internal project at [Podio](http://podio.com), but has then been open sourced to give it a life in the community.
 
-## This project is currently unmaintained (Feb. 13 2013)
-The newest work can be found in the 1.5-branch, but I haven't had the time to complete it. 
-
-I anyone is up for improving mentionsInput, then let me know kenneth@auchenberg.dk, and we figure something out.
+## About this fork
+This repository is a fork by [Zhusee](https://github.com/zhusee2), since the original project is listed as *no longer maintained*.
 
 ## Introduction
 To get started -- checkout http://podio.github.com/jquery-mentions-input
